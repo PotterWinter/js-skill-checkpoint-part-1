@@ -17,5 +17,9 @@ const products = [
   },
 ];
 
-const promotionCode = "";
+const promotionCode = "SALE20";
 // เริ่มเขียนโค้ดตรงนี้
+// "SALE20"
+// "SALE50"
+
+
